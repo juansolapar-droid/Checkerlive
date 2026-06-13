@@ -41,7 +41,7 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd mmail
+cd Checkerlive
 
 python mmail.py
 
