@@ -24,14 +24,14 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/juansolapar-droid/Checkerlive
 
 ```
 
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git 
 
 ```
 
